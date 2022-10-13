@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-train-anandahhc",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "277570dd-6ad3-4ae8-9213-ae8778a93770",
+		"tenantId": "44abe35e-bd50-42c3-afd7-36a797c01ef6"
+	}
+}
